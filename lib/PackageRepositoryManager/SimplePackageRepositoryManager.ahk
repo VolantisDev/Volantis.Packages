@@ -1,0 +1,3 @@
+class SimplePackageRepositoryManager extends PackageRepositoryManagerBase {
+
+}

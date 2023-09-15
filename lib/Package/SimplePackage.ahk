@@ -1,0 +1,3 @@
+class SimplePackage extends PackageBase {
+
+}

@@ -1,0 +1,3 @@
+class SimplePackageDependency extends PackageDependencyBase {
+
+}

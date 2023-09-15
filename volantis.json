@@ -1,0 +1,17 @@
+{
+    "name": "volantis/package",
+    "type": "package",
+    "description": "A package for defining and managing packages",
+    "website": "https://volantis.dev",
+    "authors": [{
+        "name": "Ben McClure",
+        "email": "ben@volantisdev.com"
+    }],
+    "require": {
+        "volantis/common": "^1.0 || dev-main",
+        "volantis/version": "^1.0 || dev-main"
+    },
+    "libraries": {
+        "Package": "lib"
+    }
+}

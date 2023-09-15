@@ -1,0 +1,3 @@
+class SimplePackageRepositoryFactory extends PackageRepositoryFactoryBase {
+
+}
